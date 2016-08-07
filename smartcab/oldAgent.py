@@ -10,15 +10,14 @@ class LearningAgent(Agent):
     def __init__(self, env):
         super(LearningAgent, self).__init__(env)  # sets self.env = env, state = None, next_waypoint = None, and a default color
         self.color = 'red'  # override color
-        self.planner = RoutePlanner(self.env, self)  # simple route planner to get next_waypoint
-        # TODO: Initialize any additional variables here
-        self.Q = defaultdict(list)
+        self.planner = RoutePlanner(self.env, self)  # simple route planner to get next_waypoint 
+        # TODO: Initialize any additional variables here 
+        self.q = defaultdict(list)
         self.alphaLearn = .8
         self.gammaDiscount = .8
-        self.stateAction = None
+        self.stateAction = []
 
     def reset(self, destination=None):
-        self.stateAction = None
         self.planner.route_to(destination)
         # TODO: Prepare for a new trip; reset any variables here, if required
 
@@ -31,34 +30,30 @@ class LearningAgent(Agent):
         # TODO: Update state
         self.state = [inputs['light'],inputs['right'],inputs['left'],deadline, self.next_waypoint]
         
+
         # TODO: Select action according to your policy
         action = None
         maxQ = 0
-        for k,v in self.Q.items():
+        for k, v in self.q.items():
             if k[0:4] == self.state and v > maxQ:
                 action = k[5]
                 maxQ = v
         if action == None:
             action = random.choice([None, 'forward', 'left', 'right']) 
 
-
         # Execute action and get reward
         reward = self.env.act(self, action)
 
         # TODO: Learn policy based on state, action, reward
-        if self.stateAction is not None:
-            if self.Q[tuple(self.stateAction)]:
-                self.Q[tuple(self.stateAction)] = self.Q[tuple(self.stateAction)] + self.alphaLearn * (reward + self.gammaDiscount*maxQ - self.Q[tuple(self.stateAction)])
+        if self.stateAction is not []:
+            if self.q[self.stateAction]:
+                self.q[self.stateAction] = self.q[self.stateAction] + self.alphaLearn * (reward + self.gammaDiscount*maxQ - self.q[self.stateAction])
             else:
-                self.Q[tuple(self.stateAction)] = self.alphaLearn * (reward + self.gammaDiscount*maxQ )
-        else:
-            print 'Q learning start'
+                self.q[self.stateAction] = self.alphaLearn * (reward + self.gammaDiscount*maxQ )
 
-
+        self.stateAction = [inputs['light'],inputs['right'],inputs['left'],deadline, self.next_waypoint, action]
 
         #print "LearningAgent.update(): deadline = {}, inputs = {}, action = {}, reward = {}".format(deadline, inputs, action, reward)  # [debug]
-        
-        self.stateAction = [inputs['light'],inputs['right'],inputs['left'],deadline, self.next_waypoint, action]
 
 def run():
     """Run the agent for a finite number of trials."""
@@ -70,12 +65,11 @@ def run():
     # NOTE: You can set enforce_deadline=False while debugging to allow longer trials
 
     # Now simulate it
-    sim = Simulator(e, update_delay=0.01, display=True)  # create simulator (uses pygame when display=True, if available)
+    sim = Simulator(e, update_delay=0.5, display=True)  # create simulator (uses pygame when display=True, if available)
     # NOTE: To speed up simulation, reduce update_delay and/or set display=False
 
     sim.run(n_trials=100)  # run for a specified number of trials
     # NOTE: To quit midway, press Esc or close pygame window, or hit Ctrl+C on the command-line
-
 
 if __name__ == '__main__':
     run()
