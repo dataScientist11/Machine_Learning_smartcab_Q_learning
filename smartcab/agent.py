@@ -16,7 +16,7 @@ class LearningAgent(Agent):
         self.alphaLearn = .3
         self.gammaDiscount = .99
         self.stateAction = None
-        self.epsilon = .2
+        self.epsilon = .1
 
     def reset(self, destination=None):
         self.stateAction = None
@@ -75,7 +75,7 @@ def run():
     # NOTE: You can set enforce_deadline=False while debugging to allow longer trials
 
     # Now simulate it
-    sim = Simulator(e, update_delay=0.001, display=False)  # create simulator (uses pygame when display=True, if available)
+    sim = Simulator(e, update_delay=0.0001, display=False)  # create simulator (uses pygame when display=True, if available)
     # NOTE: To speed up simulation, reduce update_delay and/or set display=False
 
     sim.run(n_trials=100)  # run for a specified number of trials
