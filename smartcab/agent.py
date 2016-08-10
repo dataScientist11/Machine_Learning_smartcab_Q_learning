@@ -17,10 +17,14 @@ class LearningAgent(Agent):
         self.gammaDiscount = .99
         self.stateAction = None
         self.epsilon = .1
+        self.penalty  = 0
+        self.oldPenalty = None
 
     def reset(self, destination=None):
         self.stateAction = None
         self.planner.route_to(destination)
+        print 'penalty = {}'.format(self.penalty if self.oldPenalty is None else (self.penalty-self.oldPenalty)) 
+        self.oldPenalty = self.penalty
         # TODO: Prepare for a new trip; reset any variables here, if required
 
     def update(self, t):
@@ -49,6 +53,10 @@ class LearningAgent(Agent):
 
         # Execute action and get reward
         reward = self.env.act(self, action)
+        if reward < 0: 
+            self.penalty += 1
+            # print 'violation', self.penalty
+
 
         # TODO: Learn policy based on state, action, reward
         if self.stateAction is not None:
@@ -74,10 +82,12 @@ def run():
     e.set_primary_agent(a, enforce_deadline=False)  # specify agent to track
     # NOTE: You can set enforce_deadline=False while debugging to allow longer trials
 
+
     # Now simulate it
-    sim = Simulator(e, update_delay=0.0001, display=False)  # create simulator (uses pygame when display=True, if available)
+    sim = Simulator(e, update_delay=0.05, display=True)  # create simulator (uses pygame when display=True, if available)
     # NOTE: To speed up simulation, reduce update_delay and/or set display=False
 
+    print 'this is the trial number {}'.format(sim.trialNumber)
     sim.run(n_trials=100)  # run for a specified number of trials
     # NOTE: To quit midway, press Esc or close pygame window, or hit Ctrl+C on the command-line
 

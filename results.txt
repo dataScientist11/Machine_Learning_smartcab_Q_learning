@@ -1,0 +1,4757 @@
+this is the trial number None
+Simulator.run(): Trial 0
+Environment.reset(): Trial set up with start = (3, 2), destination = (5, 6), deadline = 30
+RoutePlanner.route_to(): destination = (5, 6)
+violation 1
+Q learning start
+violation 2
+violation 3
+violation 4
+violation 5
+violation 6
+violation 7
+violation 8
+violation 9
+violation 10
+violation 11
+violation 12
+violation 13
+violation 14
+violation 15
+violation 16
+violation 17
+violation 18
+violation 19
+violation 20
+violation 21
+violation 22
+violation 23
+violation 24
+violation 25
+violation 26
+violation 27
+violation 28
+violation 29
+violation 30
+violation 31
+violation 32
+violation 33
+violation 34
+violation 35
+violation 36
+violation 37
+violation 38
+violation 39
+violation 40
+violation 41
+violation 42
+violation 43
+violation 44
+violation 45
+violation 46
+violation 47
+violation 48
+violation 49
+violation 50
+violation 51
+violation 52
+violation 53
+violation 54
+violation 55
+violation 56
+violation 57
+violation 58
+violation 59
+violation 60
+violation 61
+violation 62
+violation 63
+violation 64
+violation 65
+violation 66
+violation 67
+violation 68
+violation 69
+violation 70
+violation 71
+violation 72
+violation 73
+violation 74
+violation 75
+violation 76
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 1
+Environment.reset(): Trial set up with start = (7, 1), destination = (1, 5), deadline = 50
+RoutePlanner.route_to(): destination = (1, 5)
+violation 77
+Q learning start
+violation 78
+violation 79
+violation 80
+violation 81
+violation 82
+violation 83
+violation 84
+violation 85
+violation 86
+violation 87
+violation 88
+violation 89
+violation 90
+violation 91
+violation 92
+violation 93
+violation 94
+violation 95
+violation 96
+violation 97
+violation 98
+violation 99
+violation 100
+violation 101
+violation 102
+violation 103
+violation 104
+violation 105
+violation 106
+violation 107
+violation 108
+violation 109
+violation 110
+violation 111
+violation 112
+violation 113
+violation 114
+violation 115
+violation 116
+violation 117
+violation 118
+violation 119
+violation 120
+violation 121
+violation 122
+violation 123
+violation 124
+violation 125
+violation 126
+violation 127
+violation 128
+violation 129
+violation 130
+violation 131
+violation 132
+violation 133
+violation 134
+violation 135
+violation 136
+violation 137
+violation 138
+violation 139
+violation 140
+violation 141
+violation 142
+violation 143
+violation 144
+violation 145
+violation 146
+violation 147
+violation 148
+violation 149
+violation 150
+violation 151
+violation 152
+violation 153
+violation 154
+violation 155
+violation 156
+violation 157
+violation 158
+violation 159
+violation 160
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 2
+Environment.reset(): Trial set up with start = (3, 5), destination = (5, 3), deadline = 20
+RoutePlanner.route_to(): destination = (5, 3)
+violation 161
+Q learning start
+violation 162
+violation 163
+violation 164
+violation 165
+violation 166
+violation 167
+violation 168
+violation 169
+violation 170
+violation 171
+violation 172
+violation 173
+violation 174
+violation 175
+violation 176
+violation 177
+violation 178
+violation 179
+violation 180
+violation 181
+violation 182
+violation 183
+violation 184
+violation 185
+violation 186
+violation 187
+violation 188
+violation 189
+violation 190
+violation 191
+violation 192
+violation 193
+violation 194
+violation 195
+violation 196
+violation 197
+violation 198
+violation 199
+violation 200
+violation 201
+violation 202
+violation 203
+violation 204
+violation 205
+violation 206
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 3
+Environment.reset(): Trial set up with start = (1, 2), destination = (7, 4), deadline = 40
+RoutePlanner.route_to(): destination = (7, 4)
+Q learning start
+violation 207
+violation 208
+violation 209
+violation 210
+violation 211
+violation 212
+violation 213
+violation 214
+violation 215
+violation 216
+violation 217
+violation 218
+violation 219
+violation 220
+violation 221
+violation 222
+violation 223
+violation 224
+violation 225
+violation 226
+violation 227
+violation 228
+violation 229
+violation 230
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 4
+Environment.reset(): Trial set up with start = (3, 5), destination = (6, 3), deadline = 25
+RoutePlanner.route_to(): destination = (6, 3)
+violation 231
+Q learning start
+violation 232
+violation 233
+violation 234
+violation 235
+violation 236
+violation 237
+violation 238
+violation 239
+violation 240
+violation 241
+violation 242
+violation 243
+violation 244
+violation 245
+violation 246
+violation 247
+violation 248
+violation 249
+violation 250
+violation 251
+violation 252
+violation 253
+violation 254
+violation 255
+violation 256
+violation 257
+violation 258
+violation 259
+violation 260
+violation 261
+violation 262
+violation 263
+violation 264
+violation 265
+violation 266
+violation 267
+violation 268
+violation 269
+violation 270
+violation 271
+violation 272
+violation 273
+violation 274
+violation 275
+violation 276
+violation 277
+violation 278
+violation 279
+violation 280
+violation 281
+violation 282
+violation 283
+violation 284
+violation 285
+violation 286
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 5
+Environment.reset(): Trial set up with start = (5, 2), destination = (8, 1), deadline = 20
+RoutePlanner.route_to(): destination = (8, 1)
+Q learning start
+violation 287
+violation 288
+violation 289
+violation 290
+violation 291
+violation 292
+violation 293
+violation 294
+violation 295
+violation 296
+violation 297
+violation 298
+violation 299
+violation 300
+violation 301
+violation 302
+violation 303
+violation 304
+violation 305
+violation 306
+violation 307
+violation 308
+violation 309
+violation 310
+violation 311
+violation 312
+violation 313
+violation 314
+violation 315
+violation 316
+violation 317
+violation 318
+violation 319
+violation 320
+violation 321
+violation 322
+violation 323
+violation 324
+violation 325
+violation 326
+violation 327
+violation 328
+violation 329
+violation 330
+violation 331
+violation 332
+violation 333
+violation 334
+violation 335
+violation 336
+violation 337
+violation 338
+violation 339
+violation 340
+violation 341
+violation 342
+violation 343
+violation 344
+violation 345
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 6
+Environment.reset(): Trial set up with start = (2, 1), destination = (7, 2), deadline = 30
+RoutePlanner.route_to(): destination = (7, 2)
+violation 346
+Q learning start
+violation 347
+violation 348
+violation 349
+violation 350
+violation 351
+violation 352
+violation 353
+violation 354
+violation 355
+violation 356
+violation 357
+violation 358
+violation 359
+violation 360
+violation 361
+violation 362
+violation 363
+violation 364
+violation 365
+violation 366
+violation 367
+violation 368
+violation 369
+violation 370
+violation 371
+violation 372
+violation 373
+violation 374
+violation 375
+violation 376
+violation 377
+violation 378
+violation 379
+violation 380
+violation 381
+violation 382
+violation 383
+violation 384
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 7
+Environment.reset(): Trial set up with start = (8, 5), destination = (5, 1), deadline = 35
+RoutePlanner.route_to(): destination = (5, 1)
+Q learning start
+violation 385
+violation 386
+violation 387
+violation 388
+violation 389
+violation 390
+violation 391
+violation 392
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 8
+Environment.reset(): Trial set up with start = (4, 6), destination = (8, 1), deadline = 45
+RoutePlanner.route_to(): destination = (8, 1)
+violation 393
+Q learning start
+violation 394
+violation 395
+violation 396
+violation 397
+violation 398
+violation 399
+violation 400
+violation 401
+violation 402
+violation 403
+violation 404
+violation 405
+violation 406
+violation 407
+violation 408
+violation 409
+violation 410
+violation 411
+violation 412
+violation 413
+violation 414
+violation 415
+violation 416
+violation 417
+violation 418
+violation 419
+violation 420
+violation 421
+violation 422
+violation 423
+violation 424
+violation 425
+violation 426
+violation 427
+violation 428
+violation 429
+violation 430
+violation 431
+violation 432
+violation 433
+violation 434
+violation 435
+violation 436
+violation 437
+violation 438
+violation 439
+violation 440
+violation 441
+violation 442
+violation 443
+violation 444
+violation 445
+violation 446
+violation 447
+violation 448
+violation 449
+violation 450
+violation 451
+violation 452
+violation 453
+violation 454
+violation 455
+violation 456
+violation 457
+violation 458
+violation 459
+violation 460
+violation 461
+violation 462
+violation 463
+violation 464
+violation 465
+violation 466
+violation 467
+violation 468
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 9
+Environment.reset(): Trial set up with start = (8, 6), destination = (4, 5), deadline = 25
+RoutePlanner.route_to(): destination = (4, 5)
+violation 469
+Q learning start
+violation 470
+violation 471
+violation 472
+violation 473
+violation 474
+violation 475
+violation 476
+violation 477
+violation 478
+violation 479
+violation 480
+violation 481
+violation 482
+violation 483
+violation 484
+violation 485
+violation 486
+violation 487
+violation 488
+violation 489
+violation 490
+violation 491
+violation 492
+violation 493
+violation 494
+violation 495
+violation 496
+violation 497
+violation 498
+violation 499
+violation 500
+violation 501
+violation 502
+violation 503
+violation 504
+violation 505
+violation 506
+violation 507
+violation 508
+violation 509
+violation 510
+violation 511
+violation 512
+violation 513
+violation 514
+violation 515
+violation 516
+violation 517
+violation 518
+violation 519
+violation 520
+violation 521
+violation 522
+violation 523
+violation 524
+violation 525
+violation 526
+violation 527
+violation 528
+violation 529
+violation 530
+violation 531
+violation 532
+violation 533
+violation 534
+violation 535
+violation 536
+violation 537
+violation 538
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 10
+Environment.reset(): Trial set up with start = (1, 5), destination = (6, 6), deadline = 30
+RoutePlanner.route_to(): destination = (6, 6)
+Q learning start
+violation 539
+violation 540
+violation 541
+violation 542
+violation 543
+violation 544
+violation 545
+violation 546
+violation 547
+violation 548
+violation 549
+violation 550
+violation 551
+violation 552
+violation 553
+violation 554
+violation 555
+violation 556
+violation 557
+violation 558
+violation 559
+violation 560
+violation 561
+violation 562
+violation 563
+violation 564
+violation 565
+violation 566
+violation 567
+violation 568
+violation 569
+violation 570
+violation 571
+violation 572
+violation 573
+violation 574
+violation 575
+violation 576
+violation 577
+violation 578
+violation 579
+violation 580
+violation 581
+violation 582
+violation 583
+violation 584
+violation 585
+violation 586
+violation 587
+violation 588
+violation 589
+violation 590
+violation 591
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 11
+Environment.reset(): Trial set up with start = (7, 5), destination = (5, 3), deadline = 20
+RoutePlanner.route_to(): destination = (5, 3)
+Q learning start
+violation 592
+violation 593
+violation 594
+violation 595
+violation 596
+violation 597
+violation 598
+violation 599
+violation 600
+violation 601
+violation 602
+violation 603
+violation 604
+violation 605
+violation 606
+violation 607
+violation 608
+violation 609
+violation 610
+violation 611
+violation 612
+violation 613
+violation 614
+violation 615
+violation 616
+violation 617
+violation 618
+violation 619
+violation 620
+violation 621
+violation 622
+violation 623
+violation 624
+violation 625
+violation 626
+violation 627
+violation 628
+violation 629
+violation 630
+violation 631
+violation 632
+violation 633
+violation 634
+violation 635
+violation 636
+violation 637
+violation 638
+violation 639
+violation 640
+violation 641
+violation 642
+violation 643
+violation 644
+violation 645
+violation 646
+violation 647
+violation 648
+violation 649
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 12
+Environment.reset(): Trial set up with start = (2, 4), destination = (7, 2), deadline = 35
+RoutePlanner.route_to(): destination = (7, 2)
+Q learning start
+violation 650
+violation 651
+violation 652
+violation 653
+violation 654
+violation 655
+violation 656
+violation 657
+violation 658
+violation 659
+violation 660
+violation 661
+violation 662
+violation 663
+violation 664
+violation 665
+violation 666
+violation 667
+violation 668
+violation 669
+violation 670
+violation 671
+violation 672
+violation 673
+violation 674
+violation 675
+violation 676
+violation 677
+violation 678
+violation 679
+violation 680
+violation 681
+violation 682
+violation 683
+violation 684
+violation 685
+violation 686
+violation 687
+violation 688
+violation 689
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 13
+Environment.reset(): Trial set up with start = (1, 4), destination = (7, 6), deadline = 40
+RoutePlanner.route_to(): destination = (7, 6)
+Q learning start
+violation 690
+violation 691
+violation 692
+violation 693
+violation 694
+violation 695
+violation 696
+violation 697
+violation 698
+violation 699
+violation 700
+violation 701
+violation 702
+violation 703
+violation 704
+violation 705
+violation 706
+violation 707
+violation 708
+violation 709
+violation 710
+violation 711
+violation 712
+violation 713
+violation 714
+violation 715
+violation 716
+violation 717
+violation 718
+violation 719
+violation 720
+violation 721
+violation 722
+violation 723
+violation 724
+violation 725
+violation 726
+violation 727
+violation 728
+violation 729
+violation 730
+violation 731
+violation 732
+violation 733
+violation 734
+violation 735
+violation 736
+violation 737
+violation 738
+violation 739
+violation 740
+violation 741
+violation 742
+violation 743
+violation 744
+violation 745
+violation 746
+violation 747
+violation 748
+violation 749
+violation 750
+violation 751
+violation 752
+violation 753
+violation 754
+violation 755
+violation 756
+violation 757
+violation 758
+violation 759
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 14
+Environment.reset(): Trial set up with start = (7, 2), destination = (2, 4), deadline = 35
+RoutePlanner.route_to(): destination = (2, 4)
+Q learning start
+violation 760
+violation 761
+violation 762
+violation 763
+violation 764
+violation 765
+violation 766
+violation 767
+violation 768
+violation 769
+violation 770
+violation 771
+violation 772
+violation 773
+violation 774
+violation 775
+violation 776
+violation 777
+violation 778
+violation 779
+violation 780
+violation 781
+violation 782
+violation 783
+violation 784
+violation 785
+violation 786
+violation 787
+violation 788
+violation 789
+violation 790
+violation 791
+violation 792
+violation 793
+violation 794
+violation 795
+violation 796
+violation 797
+violation 798
+violation 799
+violation 800
+violation 801
+violation 802
+violation 803
+violation 804
+violation 805
+violation 806
+violation 807
+violation 808
+violation 809
+violation 810
+violation 811
+violation 812
+violation 813
+violation 814
+violation 815
+violation 816
+violation 817
+violation 818
+violation 819
+violation 820
+violation 821
+violation 822
+violation 823
+violation 824
+violation 825
+violation 826
+violation 827
+violation 828
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 15
+Environment.reset(): Trial set up with start = (8, 1), destination = (7, 6), deadline = 30
+RoutePlanner.route_to(): destination = (7, 6)
+Q learning start
+violation 829
+violation 830
+violation 831
+violation 832
+violation 833
+violation 834
+violation 835
+violation 836
+violation 837
+violation 838
+violation 839
+violation 840
+violation 841
+violation 842
+violation 843
+violation 844
+violation 845
+violation 846
+violation 847
+violation 848
+violation 849
+violation 850
+violation 851
+violation 852
+violation 853
+violation 854
+violation 855
+violation 856
+violation 857
+violation 858
+violation 859
+violation 860
+violation 861
+violation 862
+violation 863
+violation 864
+violation 865
+violation 866
+Environment.act(): Primary agent has reached destination!
+violation 867
+Simulator.run(): Trial 16
+Environment.reset(): Trial set up with start = (1, 6), destination = (6, 6), deadline = 25
+RoutePlanner.route_to(): destination = (6, 6)
+violation 868
+Q learning start
+violation 869
+violation 870
+violation 871
+violation 872
+violation 873
+violation 874
+violation 875
+violation 876
+violation 877
+violation 878
+violation 879
+violation 880
+violation 881
+violation 882
+violation 883
+violation 884
+violation 885
+violation 886
+violation 887
+violation 888
+violation 889
+violation 890
+violation 891
+violation 892
+violation 893
+violation 894
+violation 895
+violation 896
+violation 897
+violation 898
+violation 899
+violation 900
+violation 901
+violation 902
+violation 903
+violation 904
+violation 905
+violation 906
+violation 907
+violation 908
+violation 909
+violation 910
+violation 911
+violation 912
+violation 913
+violation 914
+violation 915
+violation 916
+violation 917
+violation 918
+violation 919
+violation 920
+violation 921
+violation 922
+violation 923
+violation 924
+violation 925
+violation 926
+violation 927
+violation 928
+violation 929
+violation 930
+violation 931
+violation 932
+violation 933
+violation 934
+violation 935
+violation 936
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 17
+Environment.reset(): Trial set up with start = (4, 6), destination = (1, 4), deadline = 25
+RoutePlanner.route_to(): destination = (1, 4)
+Q learning start
+violation 937
+violation 938
+violation 939
+violation 940
+violation 941
+violation 942
+violation 943
+violation 944
+violation 945
+violation 946
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 18
+Environment.reset(): Trial set up with start = (4, 3), destination = (1, 6), deadline = 30
+RoutePlanner.route_to(): destination = (1, 6)
+violation 947
+Q learning start
+violation 948
+violation 949
+violation 950
+violation 951
+violation 952
+violation 953
+violation 954
+violation 955
+violation 956
+violation 957
+violation 958
+violation 959
+violation 960
+violation 961
+violation 962
+violation 963
+violation 964
+violation 965
+violation 966
+violation 967
+violation 968
+violation 969
+violation 970
+violation 971
+violation 972
+violation 973
+violation 974
+violation 975
+violation 976
+violation 977
+violation 978
+violation 979
+violation 980
+violation 981
+violation 982
+violation 983
+violation 984
+violation 985
+violation 986
+violation 987
+violation 988
+violation 989
+violation 990
+violation 991
+violation 992
+violation 993
+violation 994
+violation 995
+violation 996
+violation 997
+violation 998
+violation 999
+violation 1000
+violation 1001
+violation 1002
+violation 1003
+violation 1004
+violation 1005
+violation 1006
+violation 1007
+violation 1008
+violation 1009
+violation 1010
+violation 1011
+violation 1012
+violation 1013
+violation 1014
+violation 1015
+violation 1016
+violation 1017
+violation 1018
+violation 1019
+violation 1020
+violation 1021
+violation 1022
+violation 1023
+violation 1024
+violation 1025
+violation 1026
+violation 1027
+violation 1028
+violation 1029
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 19
+Environment.reset(): Trial set up with start = (4, 6), destination = (2, 2), deadline = 30
+RoutePlanner.route_to(): destination = (2, 2)
+violation 1030
+Q learning start
+violation 1031
+violation 1032
+violation 1033
+violation 1034
+violation 1035
+violation 1036
+violation 1037
+violation 1038
+violation 1039
+violation 1040
+violation 1041
+violation 1042
+violation 1043
+violation 1044
+violation 1045
+violation 1046
+violation 1047
+violation 1048
+violation 1049
+violation 1050
+violation 1051
+violation 1052
+violation 1053
+violation 1054
+violation 1055
+violation 1056
+violation 1057
+violation 1058
+violation 1059
+violation 1060
+violation 1061
+violation 1062
+violation 1063
+violation 1064
+violation 1065
+violation 1066
+violation 1067
+violation 1068
+violation 1069
+violation 1070
+violation 1071
+violation 1072
+violation 1073
+violation 1074
+violation 1075
+violation 1076
+violation 1077
+violation 1078
+violation 1079
+violation 1080
+violation 1081
+violation 1082
+violation 1083
+violation 1084
+violation 1085
+violation 1086
+violation 1087
+violation 1088
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 20
+Environment.reset(): Trial set up with start = (3, 5), destination = (7, 4), deadline = 25
+RoutePlanner.route_to(): destination = (7, 4)
+violation 1089
+Q learning start
+violation 1090
+violation 1091
+violation 1092
+violation 1093
+violation 1094
+violation 1095
+violation 1096
+violation 1097
+violation 1098
+violation 1099
+violation 1100
+violation 1101
+violation 1102
+violation 1103
+violation 1104
+violation 1105
+violation 1106
+violation 1107
+violation 1108
+violation 1109
+violation 1110
+violation 1111
+violation 1112
+violation 1113
+violation 1114
+violation 1115
+violation 1116
+violation 1117
+violation 1118
+violation 1119
+violation 1120
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 21
+Environment.reset(): Trial set up with start = (1, 1), destination = (3, 3), deadline = 20
+RoutePlanner.route_to(): destination = (3, 3)
+Q learning start
+violation 1121
+violation 1122
+violation 1123
+violation 1124
+violation 1125
+violation 1126
+violation 1127
+violation 1128
+violation 1129
+violation 1130
+violation 1131
+violation 1132
+violation 1133
+violation 1134
+violation 1135
+violation 1136
+violation 1137
+violation 1138
+violation 1139
+violation 1140
+violation 1141
+violation 1142
+violation 1143
+violation 1144
+violation 1145
+violation 1146
+violation 1147
+violation 1148
+violation 1149
+violation 1150
+violation 1151
+violation 1152
+violation 1153
+violation 1154
+violation 1155
+violation 1156
+violation 1157
+violation 1158
+violation 1159
+violation 1160
+violation 1161
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 22
+Environment.reset(): Trial set up with start = (5, 3), destination = (3, 5), deadline = 20
+RoutePlanner.route_to(): destination = (3, 5)
+Q learning start
+violation 1162
+violation 1163
+violation 1164
+violation 1165
+violation 1166
+violation 1167
+violation 1168
+violation 1169
+violation 1170
+violation 1171
+violation 1172
+violation 1173
+violation 1174
+violation 1175
+violation 1176
+violation 1177
+violation 1178
+violation 1179
+violation 1180
+violation 1181
+violation 1182
+violation 1183
+violation 1184
+violation 1185
+violation 1186
+violation 1187
+violation 1188
+violation 1189
+violation 1190
+violation 1191
+violation 1192
+violation 1193
+violation 1194
+violation 1195
+violation 1196
+violation 1197
+violation 1198
+violation 1199
+violation 1200
+violation 1201
+violation 1202
+violation 1203
+violation 1204
+violation 1205
+violation 1206
+violation 1207
+violation 1208
+violation 1209
+violation 1210
+violation 1211
+violation 1212
+violation 1213
+violation 1214
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 23
+Environment.reset(): Trial set up with start = (8, 6), destination = (2, 4), deadline = 40
+RoutePlanner.route_to(): destination = (2, 4)
+violation 1215
+Q learning start
+violation 1216
+violation 1217
+violation 1218
+violation 1219
+violation 1220
+violation 1221
+violation 1222
+violation 1223
+violation 1224
+violation 1225
+violation 1226
+violation 1227
+violation 1228
+violation 1229
+violation 1230
+violation 1231
+violation 1232
+violation 1233
+violation 1234
+violation 1235
+violation 1236
+violation 1237
+violation 1238
+violation 1239
+violation 1240
+violation 1241
+violation 1242
+violation 1243
+violation 1244
+violation 1245
+violation 1246
+violation 1247
+violation 1248
+violation 1249
+violation 1250
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 24
+Environment.reset(): Trial set up with start = (3, 2), destination = (7, 2), deadline = 20
+RoutePlanner.route_to(): destination = (7, 2)
+Q learning start
+violation 1251
+violation 1252
+violation 1253
+violation 1254
+violation 1255
+violation 1256
+violation 1257
+violation 1258
+violation 1259
+violation 1260
+violation 1261
+violation 1262
+violation 1263
+violation 1264
+violation 1265
+violation 1266
+violation 1267
+violation 1268
+violation 1269
+violation 1270
+violation 1271
+violation 1272
+violation 1273
+violation 1274
+violation 1275
+violation 1276
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 25
+Environment.reset(): Trial set up with start = (6, 4), destination = (8, 2), deadline = 20
+RoutePlanner.route_to(): destination = (8, 2)
+Q learning start
+violation 1277
+violation 1278
+violation 1279
+violation 1280
+violation 1281
+violation 1282
+violation 1283
+violation 1284
+violation 1285
+violation 1286
+violation 1287
+violation 1288
+violation 1289
+violation 1290
+violation 1291
+violation 1292
+violation 1293
+violation 1294
+violation 1295
+violation 1296
+violation 1297
+violation 1298
+violation 1299
+violation 1300
+violation 1301
+violation 1302
+violation 1303
+violation 1304
+violation 1305
+violation 1306
+violation 1307
+violation 1308
+violation 1309
+violation 1310
+violation 1311
+violation 1312
+violation 1313
+violation 1314
+violation 1315
+violation 1316
+violation 1317
+violation 1318
+violation 1319
+violation 1320
+violation 1321
+violation 1322
+violation 1323
+violation 1324
+violation 1325
+violation 1326
+violation 1327
+violation 1328
+violation 1329
+violation 1330
+violation 1331
+violation 1332
+violation 1333
+violation 1334
+violation 1335
+violation 1336
+violation 1337
+violation 1338
+violation 1339
+violation 1340
+violation 1341
+violation 1342
+violation 1343
+violation 1344
+violation 1345
+violation 1346
+violation 1347
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 26
+Environment.reset(): Trial set up with start = (8, 4), destination = (1, 5), deadline = 40
+RoutePlanner.route_to(): destination = (1, 5)
+violation 1348
+Q learning start
+violation 1349
+violation 1350
+violation 1351
+violation 1352
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 27
+Environment.reset(): Trial set up with start = (2, 1), destination = (7, 1), deadline = 25
+RoutePlanner.route_to(): destination = (7, 1)
+violation 1353
+Q learning start
+violation 1354
+violation 1355
+violation 1356
+violation 1357
+violation 1358
+violation 1359
+violation 1360
+violation 1361
+violation 1362
+violation 1363
+violation 1364
+violation 1365
+violation 1366
+violation 1367
+violation 1368
+violation 1369
+violation 1370
+violation 1371
+violation 1372
+violation 1373
+violation 1374
+violation 1375
+violation 1376
+violation 1377
+violation 1378
+violation 1379
+violation 1380
+violation 1381
+violation 1382
+violation 1383
+violation 1384
+violation 1385
+violation 1386
+violation 1387
+violation 1388
+violation 1389
+violation 1390
+violation 1391
+violation 1392
+violation 1393
+violation 1394
+violation 1395
+violation 1396
+violation 1397
+violation 1398
+violation 1399
+violation 1400
+violation 1401
+violation 1402
+violation 1403
+violation 1404
+violation 1405
+violation 1406
+violation 1407
+violation 1408
+violation 1409
+violation 1410
+violation 1411
+violation 1412
+violation 1413
+violation 1414
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 28
+Environment.reset(): Trial set up with start = (3, 4), destination = (5, 6), deadline = 20
+RoutePlanner.route_to(): destination = (5, 6)
+violation 1415
+Q learning start
+violation 1416
+violation 1417
+violation 1418
+violation 1419
+violation 1420
+violation 1421
+violation 1422
+violation 1423
+violation 1424
+violation 1425
+violation 1426
+violation 1427
+violation 1428
+violation 1429
+violation 1430
+violation 1431
+violation 1432
+violation 1433
+violation 1434
+violation 1435
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 29
+Environment.reset(): Trial set up with start = (5, 1), destination = (7, 5), deadline = 30
+RoutePlanner.route_to(): destination = (7, 5)
+violation 1436
+Q learning start
+violation 1437
+violation 1438
+violation 1439
+violation 1440
+violation 1441
+violation 1442
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 30
+Environment.reset(): Trial set up with start = (7, 1), destination = (6, 5), deadline = 25
+RoutePlanner.route_to(): destination = (6, 5)
+Q learning start
+violation 1443
+violation 1444
+violation 1445
+violation 1446
+violation 1447
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 31
+Environment.reset(): Trial set up with start = (7, 3), destination = (2, 3), deadline = 25
+RoutePlanner.route_to(): destination = (2, 3)
+violation 1448
+Q learning start
+violation 1449
+violation 1450
+violation 1451
+violation 1452
+violation 1453
+violation 1454
+violation 1455
+violation 1456
+violation 1457
+violation 1458
+violation 1459
+violation 1460
+violation 1461
+violation 1462
+violation 1463
+violation 1464
+violation 1465
+violation 1466
+violation 1467
+violation 1468
+violation 1469
+violation 1470
+violation 1471
+violation 1472
+violation 1473
+violation 1474
+violation 1475
+violation 1476
+violation 1477
+violation 1478
+violation 1479
+violation 1480
+violation 1481
+violation 1482
+violation 1483
+violation 1484
+violation 1485
+violation 1486
+violation 1487
+violation 1488
+violation 1489
+violation 1490
+violation 1491
+violation 1492
+violation 1493
+violation 1494
+violation 1495
+violation 1496
+violation 1497
+violation 1498
+violation 1499
+violation 1500
+violation 1501
+violation 1502
+violation 1503
+violation 1504
+violation 1505
+violation 1506
+violation 1507
+violation 1508
+violation 1509
+violation 1510
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 32
+Environment.reset(): Trial set up with start = (2, 2), destination = (8, 2), deadline = 30
+RoutePlanner.route_to(): destination = (8, 2)
+violation 1511
+Q learning start
+violation 1512
+violation 1513
+violation 1514
+violation 1515
+violation 1516
+violation 1517
+violation 1518
+violation 1519
+violation 1520
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 33
+Environment.reset(): Trial set up with start = (7, 3), destination = (2, 3), deadline = 25
+RoutePlanner.route_to(): destination = (2, 3)
+violation 1521
+Q learning start
+violation 1522
+violation 1523
+violation 1524
+violation 1525
+violation 1526
+violation 1527
+violation 1528
+violation 1529
+violation 1530
+violation 1531
+violation 1532
+violation 1533
+violation 1534
+violation 1535
+violation 1536
+violation 1537
+violation 1538
+violation 1539
+violation 1540
+violation 1541
+violation 1542
+violation 1543
+violation 1544
+violation 1545
+violation 1546
+violation 1547
+violation 1548
+violation 1549
+violation 1550
+violation 1551
+violation 1552
+violation 1553
+violation 1554
+violation 1555
+violation 1556
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 34
+Environment.reset(): Trial set up with start = (1, 2), destination = (5, 4), deadline = 30
+RoutePlanner.route_to(): destination = (5, 4)
+violation 1557
+Q learning start
+violation 1558
+violation 1559
+violation 1560
+violation 1561
+violation 1562
+violation 1563
+violation 1564
+violation 1565
+violation 1566
+violation 1567
+violation 1568
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 35
+Environment.reset(): Trial set up with start = (2, 3), destination = (7, 5), deadline = 35
+RoutePlanner.route_to(): destination = (7, 5)
+violation 1569
+Q learning start
+violation 1570
+violation 1571
+violation 1572
+violation 1573
+violation 1574
+violation 1575
+violation 1576
+violation 1577
+violation 1578
+violation 1579
+violation 1580
+violation 1581
+violation 1582
+violation 1583
+violation 1584
+violation 1585
+violation 1586
+violation 1587
+violation 1588
+violation 1589
+violation 1590
+violation 1591
+violation 1592
+violation 1593
+violation 1594
+violation 1595
+violation 1596
+violation 1597
+violation 1598
+violation 1599
+violation 1600
+violation 1601
+violation 1602
+violation 1603
+violation 1604
+violation 1605
+violation 1606
+violation 1607
+violation 1608
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 36
+Environment.reset(): Trial set up with start = (6, 4), destination = (1, 6), deadline = 35
+RoutePlanner.route_to(): destination = (1, 6)
+violation 1609
+Q learning start
+violation 1610
+violation 1611
+violation 1612
+violation 1613
+violation 1614
+violation 1615
+violation 1616
+violation 1617
+violation 1618
+violation 1619
+violation 1620
+violation 1621
+violation 1622
+violation 1623
+violation 1624
+violation 1625
+violation 1626
+violation 1627
+violation 1628
+violation 1629
+violation 1630
+violation 1631
+violation 1632
+violation 1633
+violation 1634
+violation 1635
+violation 1636
+violation 1637
+violation 1638
+violation 1639
+violation 1640
+violation 1641
+violation 1642
+violation 1643
+violation 1644
+violation 1645
+violation 1646
+violation 1647
+violation 1648
+violation 1649
+violation 1650
+violation 1651
+violation 1652
+violation 1653
+violation 1654
+violation 1655
+violation 1656
+violation 1657
+violation 1658
+violation 1659
+violation 1660
+violation 1661
+violation 1662
+violation 1663
+violation 1664
+violation 1665
+violation 1666
+violation 1667
+violation 1668
+violation 1669
+violation 1670
+violation 1671
+violation 1672
+violation 1673
+violation 1674
+violation 1675
+violation 1676
+violation 1677
+violation 1678
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 37
+Environment.reset(): Trial set up with start = (1, 3), destination = (6, 2), deadline = 30
+RoutePlanner.route_to(): destination = (6, 2)
+Q learning start
+violation 1679
+violation 1680
+violation 1681
+violation 1682
+violation 1683
+violation 1684
+violation 1685
+violation 1686
+violation 1687
+violation 1688
+violation 1689
+violation 1690
+violation 1691
+violation 1692
+violation 1693
+violation 1694
+violation 1695
+violation 1696
+violation 1697
+violation 1698
+violation 1699
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 38
+Environment.reset(): Trial set up with start = (4, 3), destination = (2, 5), deadline = 20
+RoutePlanner.route_to(): destination = (2, 5)
+violation 1700
+Q learning start
+violation 1701
+violation 1702
+violation 1703
+violation 1704
+violation 1705
+violation 1706
+violation 1707
+violation 1708
+violation 1709
+violation 1710
+violation 1711
+violation 1712
+violation 1713
+violation 1714
+violation 1715
+violation 1716
+violation 1717
+violation 1718
+violation 1719
+violation 1720
+violation 1721
+violation 1722
+violation 1723
+violation 1724
+violation 1725
+violation 1726
+violation 1727
+violation 1728
+violation 1729
+violation 1730
+violation 1731
+violation 1732
+violation 1733
+violation 1734
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 39
+Environment.reset(): Trial set up with start = (6, 6), destination = (6, 1), deadline = 25
+RoutePlanner.route_to(): destination = (6, 1)
+Q learning start
+violation 1735
+violation 1736
+violation 1737
+violation 1738
+violation 1739
+violation 1740
+violation 1741
+violation 1742
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 40
+Environment.reset(): Trial set up with start = (3, 1), destination = (8, 4), deadline = 40
+RoutePlanner.route_to(): destination = (8, 4)
+violation 1743
+Q learning start
+violation 1744
+violation 1745
+violation 1746
+violation 1747
+violation 1748
+violation 1749
+violation 1750
+violation 1751
+violation 1752
+violation 1753
+violation 1754
+violation 1755
+violation 1756
+violation 1757
+violation 1758
+violation 1759
+violation 1760
+violation 1761
+violation 1762
+violation 1763
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 41
+Environment.reset(): Trial set up with start = (5, 2), destination = (6, 5), deadline = 20
+RoutePlanner.route_to(): destination = (6, 5)
+violation 1764
+Q learning start
+violation 1765
+violation 1766
+violation 1767
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 42
+Environment.reset(): Trial set up with start = (2, 6), destination = (7, 2), deadline = 45
+RoutePlanner.route_to(): destination = (7, 2)
+Q learning start
+violation 1768
+violation 1769
+violation 1770
+violation 1771
+violation 1772
+violation 1773
+violation 1774
+violation 1775
+violation 1776
+violation 1777
+violation 1778
+violation 1779
+violation 1780
+violation 1781
+violation 1782
+violation 1783
+violation 1784
+violation 1785
+violation 1786
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 43
+Environment.reset(): Trial set up with start = (8, 6), destination = (6, 3), deadline = 25
+RoutePlanner.route_to(): destination = (6, 3)
+Q learning start
+violation 1787
+violation 1788
+violation 1789
+violation 1790
+violation 1791
+violation 1792
+violation 1793
+violation 1794
+violation 1795
+violation 1796
+violation 1797
+violation 1798
+violation 1799
+violation 1800
+violation 1801
+violation 1802
+violation 1803
+violation 1804
+violation 1805
+violation 1806
+violation 1807
+violation 1808
+violation 1809
+violation 1810
+violation 1811
+violation 1812
+violation 1813
+violation 1814
+violation 1815
+violation 1816
+violation 1817
+violation 1818
+violation 1819
+violation 1820
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 44
+Environment.reset(): Trial set up with start = (7, 6), destination = (3, 6), deadline = 20
+RoutePlanner.route_to(): destination = (3, 6)
+violation 1821
+Q learning start
+violation 1822
+violation 1823
+violation 1824
+violation 1825
+violation 1826
+violation 1827
+violation 1828
+violation 1829
+violation 1830
+violation 1831
+violation 1832
+violation 1833
+violation 1834
+violation 1835
+violation 1836
+violation 1837
+violation 1838
+violation 1839
+violation 1840
+violation 1841
+violation 1842
+violation 1843
+violation 1844
+violation 1845
+violation 1846
+violation 1847
+violation 1848
+violation 1849
+violation 1850
+violation 1851
+violation 1852
+violation 1853
+violation 1854
+violation 1855
+violation 1856
+violation 1857
+violation 1858
+violation 1859
+violation 1860
+violation 1861
+violation 1862
+violation 1863
+violation 1864
+violation 1865
+violation 1866
+violation 1867
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 45
+Environment.reset(): Trial set up with start = (2, 4), destination = (7, 1), deadline = 40
+RoutePlanner.route_to(): destination = (7, 1)
+violation 1868
+Q learning start
+violation 1869
+violation 1870
+violation 1871
+violation 1872
+violation 1873
+violation 1874
+violation 1875
+violation 1876
+violation 1877
+violation 1878
+violation 1879
+violation 1880
+violation 1881
+violation 1882
+violation 1883
+violation 1884
+violation 1885
+violation 1886
+violation 1887
+violation 1888
+violation 1889
+violation 1890
+violation 1891
+violation 1892
+violation 1893
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 46
+Environment.reset(): Trial set up with start = (8, 5), destination = (3, 1), deadline = 45
+RoutePlanner.route_to(): destination = (3, 1)
+Q learning start
+violation 1894
+violation 1895
+violation 1896
+violation 1897
+violation 1898
+violation 1899
+violation 1900
+violation 1901
+violation 1902
+violation 1903
+violation 1904
+violation 1905
+violation 1906
+violation 1907
+violation 1908
+violation 1909
+violation 1910
+violation 1911
+violation 1912
+violation 1913
+violation 1914
+violation 1915
+violation 1916
+violation 1917
+violation 1918
+violation 1919
+violation 1920
+violation 1921
+violation 1922
+violation 1923
+violation 1924
+violation 1925
+Environment.act(): Primary agent has reached destination!
+violation 1926
+Simulator.run(): Trial 47
+Environment.reset(): Trial set up with start = (6, 1), destination = (2, 1), deadline = 20
+RoutePlanner.route_to(): destination = (2, 1)
+violation 1927
+Q learning start
+violation 1928
+violation 1929
+violation 1930
+violation 1931
+violation 1932
+violation 1933
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 48
+Environment.reset(): Trial set up with start = (5, 2), destination = (7, 4), deadline = 20
+RoutePlanner.route_to(): destination = (7, 4)
+Q learning start
+violation 1934
+violation 1935
+violation 1936
+violation 1937
+violation 1938
+violation 1939
+violation 1940
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 49
+Environment.reset(): Trial set up with start = (3, 5), destination = (7, 4), deadline = 25
+RoutePlanner.route_to(): destination = (7, 4)
+violation 1941
+Q learning start
+violation 1942
+violation 1943
+violation 1944
+violation 1945
+violation 1946
+violation 1947
+violation 1948
+violation 1949
+violation 1950
+violation 1951
+violation 1952
+violation 1953
+violation 1954
+violation 1955
+violation 1956
+violation 1957
+violation 1958
+violation 1959
+violation 1960
+violation 1961
+violation 1962
+violation 1963
+violation 1964
+violation 1965
+violation 1966
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 50
+Environment.reset(): Trial set up with start = (3, 6), destination = (6, 2), deadline = 35
+RoutePlanner.route_to(): destination = (6, 2)
+Q learning start
+violation 1967
+violation 1968
+violation 1969
+violation 1970
+violation 1971
+violation 1972
+violation 1973
+violation 1974
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 51
+Environment.reset(): Trial set up with start = (1, 4), destination = (7, 4), deadline = 30
+RoutePlanner.route_to(): destination = (7, 4)
+Q learning start
+violation 1975
+violation 1976
+violation 1977
+violation 1978
+violation 1979
+violation 1980
+violation 1981
+violation 1982
+violation 1983
+violation 1984
+violation 1985
+violation 1986
+violation 1987
+violation 1988
+violation 1989
+violation 1990
+violation 1991
+violation 1992
+violation 1993
+violation 1994
+violation 1995
+violation 1996
+violation 1997
+violation 1998
+violation 1999
+violation 2000
+violation 2001
+violation 2002
+violation 2003
+violation 2004
+violation 2005
+violation 2006
+violation 2007
+violation 2008
+violation 2009
+violation 2010
+violation 2011
+violation 2012
+violation 2013
+violation 2014
+violation 2015
+violation 2016
+violation 2017
+violation 2018
+violation 2019
+violation 2020
+violation 2021
+violation 2022
+violation 2023
+violation 2024
+violation 2025
+violation 2026
+violation 2027
+violation 2028
+violation 2029
+violation 2030
+violation 2031
+violation 2032
+violation 2033
+violation 2034
+violation 2035
+violation 2036
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 52
+Environment.reset(): Trial set up with start = (1, 1), destination = (4, 6), deadline = 40
+RoutePlanner.route_to(): destination = (4, 6)
+Q learning start
+violation 2037
+violation 2038
+violation 2039
+violation 2040
+violation 2041
+violation 2042
+violation 2043
+violation 2044
+violation 2045
+violation 2046
+violation 2047
+violation 2048
+violation 2049
+violation 2050
+violation 2051
+violation 2052
+violation 2053
+violation 2054
+violation 2055
+violation 2056
+violation 2057
+violation 2058
+violation 2059
+violation 2060
+violation 2061
+violation 2062
+violation 2063
+violation 2064
+violation 2065
+violation 2066
+violation 2067
+violation 2068
+violation 2069
+violation 2070
+violation 2071
+violation 2072
+violation 2073
+violation 2074
+violation 2075
+violation 2076
+violation 2077
+violation 2078
+violation 2079
+violation 2080
+violation 2081
+violation 2082
+violation 2083
+violation 2084
+violation 2085
+violation 2086
+violation 2087
+violation 2088
+violation 2089
+violation 2090
+violation 2091
+violation 2092
+violation 2093
+violation 2094
+violation 2095
+violation 2096
+violation 2097
+violation 2098
+violation 2099
+violation 2100
+violation 2101
+violation 2102
+violation 2103
+violation 2104
+violation 2105
+violation 2106
+violation 2107
+violation 2108
+violation 2109
+violation 2110
+violation 2111
+violation 2112
+violation 2113
+violation 2114
+violation 2115
+violation 2116
+violation 2117
+violation 2118
+violation 2119
+violation 2120
+violation 2121
+violation 2122
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 53
+Environment.reset(): Trial set up with start = (2, 1), destination = (5, 2), deadline = 20
+RoutePlanner.route_to(): destination = (5, 2)
+violation 2123
+Q learning start
+violation 2124
+violation 2125
+violation 2126
+violation 2127
+violation 2128
+violation 2129
+violation 2130
+violation 2131
+violation 2132
+violation 2133
+violation 2134
+violation 2135
+violation 2136
+violation 2137
+violation 2138
+violation 2139
+violation 2140
+violation 2141
+violation 2142
+violation 2143
+violation 2144
+violation 2145
+violation 2146
+violation 2147
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 54
+Environment.reset(): Trial set up with start = (2, 1), destination = (4, 3), deadline = 20
+RoutePlanner.route_to(): destination = (4, 3)
+Q learning start
+violation 2148
+violation 2149
+violation 2150
+violation 2151
+violation 2152
+violation 2153
+violation 2154
+violation 2155
+violation 2156
+violation 2157
+violation 2158
+violation 2159
+violation 2160
+violation 2161
+violation 2162
+violation 2163
+violation 2164
+violation 2165
+violation 2166
+violation 2167
+violation 2168
+violation 2169
+violation 2170
+violation 2171
+violation 2172
+violation 2173
+violation 2174
+violation 2175
+violation 2176
+violation 2177
+violation 2178
+violation 2179
+violation 2180
+violation 2181
+violation 2182
+violation 2183
+violation 2184
+violation 2185
+violation 2186
+violation 2187
+violation 2188
+violation 2189
+violation 2190
+violation 2191
+violation 2192
+violation 2193
+violation 2194
+violation 2195
+violation 2196
+violation 2197
+violation 2198
+violation 2199
+violation 2200
+violation 2201
+violation 2202
+violation 2203
+violation 2204
+violation 2205
+violation 2206
+violation 2207
+violation 2208
+violation 2209
+violation 2210
+violation 2211
+violation 2212
+violation 2213
+violation 2214
+violation 2215
+violation 2216
+violation 2217
+violation 2218
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 55
+Environment.reset(): Trial set up with start = (4, 6), destination = (1, 1), deadline = 40
+RoutePlanner.route_to(): destination = (1, 1)
+violation 2219
+Q learning start
+violation 2220
+violation 2221
+violation 2222
+violation 2223
+violation 2224
+violation 2225
+violation 2226
+violation 2227
+violation 2228
+violation 2229
+violation 2230
+violation 2231
+violation 2232
+violation 2233
+violation 2234
+violation 2235
+violation 2236
+violation 2237
+violation 2238
+violation 2239
+violation 2240
+violation 2241
+violation 2242
+violation 2243
+violation 2244
+violation 2245
+violation 2246
+violation 2247
+violation 2248
+violation 2249
+violation 2250
+violation 2251
+violation 2252
+violation 2253
+violation 2254
+violation 2255
+violation 2256
+violation 2257
+violation 2258
+violation 2259
+violation 2260
+violation 2261
+violation 2262
+violation 2263
+violation 2264
+violation 2265
+violation 2266
+violation 2267
+violation 2268
+violation 2269
+violation 2270
+violation 2271
+violation 2272
+violation 2273
+violation 2274
+violation 2275
+violation 2276
+violation 2277
+violation 2278
+violation 2279
+violation 2280
+violation 2281
+violation 2282
+violation 2283
+violation 2284
+violation 2285
+violation 2286
+violation 2287
+violation 2288
+violation 2289
+violation 2290
+violation 2291
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 56
+Environment.reset(): Trial set up with start = (2, 5), destination = (7, 2), deadline = 40
+RoutePlanner.route_to(): destination = (7, 2)
+Q learning start
+violation 2292
+violation 2293
+violation 2294
+violation 2295
+violation 2296
+violation 2297
+violation 2298
+violation 2299
+violation 2300
+violation 2301
+violation 2302
+violation 2303
+violation 2304
+violation 2305
+violation 2306
+violation 2307
+violation 2308
+violation 2309
+violation 2310
+violation 2311
+violation 2312
+violation 2313
+violation 2314
+violation 2315
+violation 2316
+violation 2317
+violation 2318
+violation 2319
+violation 2320
+violation 2321
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 57
+Environment.reset(): Trial set up with start = (3, 1), destination = (8, 6), deadline = 50
+RoutePlanner.route_to(): destination = (8, 6)
+violation 2322
+Q learning start
+violation 2323
+violation 2324
+violation 2325
+violation 2326
+violation 2327
+violation 2328
+violation 2329
+violation 2330
+violation 2331
+violation 2332
+violation 2333
+violation 2334
+violation 2335
+violation 2336
+violation 2337
+violation 2338
+violation 2339
+violation 2340
+violation 2341
+violation 2342
+violation 2343
+violation 2344
+violation 2345
+violation 2346
+violation 2347
+violation 2348
+violation 2349
+violation 2350
+violation 2351
+violation 2352
+violation 2353
+violation 2354
+violation 2355
+violation 2356
+violation 2357
+violation 2358
+violation 2359
+violation 2360
+violation 2361
+violation 2362
+violation 2363
+violation 2364
+violation 2365
+violation 2366
+violation 2367
+violation 2368
+violation 2369
+violation 2370
+violation 2371
+violation 2372
+violation 2373
+violation 2374
+violation 2375
+violation 2376
+violation 2377
+violation 2378
+Environment.act(): Primary agent has reached destination!
+violation 2379
+Simulator.run(): Trial 58
+Environment.reset(): Trial set up with start = (2, 3), destination = (6, 2), deadline = 25
+RoutePlanner.route_to(): destination = (6, 2)
+violation 2380
+Q learning start
+violation 2381
+violation 2382
+violation 2383
+violation 2384
+violation 2385
+violation 2386
+violation 2387
+violation 2388
+violation 2389
+violation 2390
+violation 2391
+violation 2392
+violation 2393
+violation 2394
+violation 2395
+violation 2396
+violation 2397
+violation 2398
+violation 2399
+violation 2400
+violation 2401
+violation 2402
+violation 2403
+violation 2404
+violation 2405
+violation 2406
+violation 2407
+violation 2408
+violation 2409
+violation 2410
+violation 2411
+violation 2412
+violation 2413
+violation 2414
+violation 2415
+violation 2416
+violation 2417
+violation 2418
+violation 2419
+violation 2420
+violation 2421
+violation 2422
+violation 2423
+violation 2424
+violation 2425
+violation 2426
+violation 2427
+violation 2428
+violation 2429
+violation 2430
+violation 2431
+violation 2432
+violation 2433
+violation 2434
+violation 2435
+violation 2436
+violation 2437
+violation 2438
+violation 2439
+violation 2440
+violation 2441
+violation 2442
+violation 2443
+violation 2444
+violation 2445
+violation 2446
+violation 2447
+violation 2448
+violation 2449
+violation 2450
+violation 2451
+violation 2452
+violation 2453
+violation 2454
+violation 2455
+violation 2456
+violation 2457
+violation 2458
+violation 2459
+violation 2460
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 59
+Environment.reset(): Trial set up with start = (7, 3), destination = (4, 4), deadline = 20
+RoutePlanner.route_to(): destination = (4, 4)
+Q learning start
+violation 2461
+violation 2462
+violation 2463
+violation 2464
+violation 2465
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 60
+Environment.reset(): Trial set up with start = (7, 5), destination = (8, 2), deadline = 20
+RoutePlanner.route_to(): destination = (8, 2)
+violation 2466
+Q learning start
+violation 2467
+violation 2468
+violation 2469
+violation 2470
+violation 2471
+violation 2472
+violation 2473
+violation 2474
+violation 2475
+violation 2476
+violation 2477
+violation 2478
+violation 2479
+violation 2480
+violation 2481
+violation 2482
+violation 2483
+violation 2484
+violation 2485
+violation 2486
+violation 2487
+violation 2488
+violation 2489
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 61
+Environment.reset(): Trial set up with start = (4, 6), destination = (8, 2), deadline = 40
+RoutePlanner.route_to(): destination = (8, 2)
+violation 2490
+Q learning start
+violation 2491
+violation 2492
+violation 2493
+violation 2494
+violation 2495
+violation 2496
+violation 2497
+violation 2498
+violation 2499
+violation 2500
+violation 2501
+violation 2502
+violation 2503
+violation 2504
+violation 2505
+violation 2506
+violation 2507
+violation 2508
+violation 2509
+violation 2510
+violation 2511
+violation 2512
+violation 2513
+violation 2514
+violation 2515
+violation 2516
+violation 2517
+violation 2518
+violation 2519
+violation 2520
+violation 2521
+violation 2522
+violation 2523
+violation 2524
+violation 2525
+violation 2526
+violation 2527
+violation 2528
+violation 2529
+violation 2530
+violation 2531
+violation 2532
+violation 2533
+violation 2534
+violation 2535
+violation 2536
+violation 2537
+violation 2538
+violation 2539
+violation 2540
+violation 2541
+violation 2542
+violation 2543
+violation 2544
+violation 2545
+violation 2546
+violation 2547
+violation 2548
+violation 2549
+violation 2550
+violation 2551
+violation 2552
+violation 2553
+violation 2554
+violation 2555
+violation 2556
+violation 2557
+violation 2558
+violation 2559
+violation 2560
+violation 2561
+violation 2562
+violation 2563
+violation 2564
+violation 2565
+violation 2566
+violation 2567
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 62
+Environment.reset(): Trial set up with start = (6, 2), destination = (6, 6), deadline = 20
+RoutePlanner.route_to(): destination = (6, 6)
+violation 2568
+Q learning start
+violation 2569
+violation 2570
+violation 2571
+violation 2572
+violation 2573
+violation 2574
+violation 2575
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 63
+Environment.reset(): Trial set up with start = (7, 1), destination = (2, 1), deadline = 25
+RoutePlanner.route_to(): destination = (2, 1)
+Q learning start
+violation 2576
+violation 2577
+violation 2578
+violation 2579
+violation 2580
+violation 2581
+violation 2582
+violation 2583
+violation 2584
+violation 2585
+violation 2586
+violation 2587
+violation 2588
+violation 2589
+violation 2590
+violation 2591
+violation 2592
+violation 2593
+violation 2594
+violation 2595
+violation 2596
+violation 2597
+violation 2598
+violation 2599
+violation 2600
+violation 2601
+violation 2602
+violation 2603
+violation 2604
+violation 2605
+violation 2606
+violation 2607
+violation 2608
+violation 2609
+violation 2610
+violation 2611
+violation 2612
+violation 2613
+violation 2614
+violation 2615
+violation 2616
+violation 2617
+violation 2618
+violation 2619
+violation 2620
+violation 2621
+violation 2622
+violation 2623
+violation 2624
+violation 2625
+violation 2626
+violation 2627
+violation 2628
+violation 2629
+violation 2630
+violation 2631
+violation 2632
+violation 2633
+violation 2634
+violation 2635
+violation 2636
+violation 2637
+violation 2638
+violation 2639
+violation 2640
+violation 2641
+violation 2642
+violation 2643
+violation 2644
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 64
+Environment.reset(): Trial set up with start = (8, 2), destination = (7, 6), deadline = 25
+RoutePlanner.route_to(): destination = (7, 6)
+violation 2645
+Q learning start
+violation 2646
+violation 2647
+violation 2648
+violation 2649
+violation 2650
+violation 2651
+violation 2652
+violation 2653
+violation 2654
+violation 2655
+violation 2656
+violation 2657
+violation 2658
+violation 2659
+violation 2660
+violation 2661
+violation 2662
+violation 2663
+violation 2664
+violation 2665
+violation 2666
+violation 2667
+violation 2668
+violation 2669
+violation 2670
+violation 2671
+violation 2672
+violation 2673
+violation 2674
+violation 2675
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 65
+Environment.reset(): Trial set up with start = (1, 2), destination = (6, 4), deadline = 35
+RoutePlanner.route_to(): destination = (6, 4)
+violation 2676
+Q learning start
+violation 2677
+violation 2678
+violation 2679
+violation 2680
+violation 2681
+violation 2682
+violation 2683
+violation 2684
+violation 2685
+violation 2686
+violation 2687
+violation 2688
+violation 2689
+violation 2690
+violation 2691
+violation 2692
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 66
+Environment.reset(): Trial set up with start = (6, 3), destination = (1, 1), deadline = 35
+RoutePlanner.route_to(): destination = (1, 1)
+Q learning start
+violation 2693
+violation 2694
+violation 2695
+violation 2696
+violation 2697
+violation 2698
+violation 2699
+violation 2700
+violation 2701
+violation 2702
+violation 2703
+violation 2704
+violation 2705
+violation 2706
+violation 2707
+violation 2708
+violation 2709
+violation 2710
+violation 2711
+violation 2712
+violation 2713
+violation 2714
+violation 2715
+violation 2716
+violation 2717
+violation 2718
+violation 2719
+violation 2720
+Environment.act(): Primary agent has reached destination!
+violation 2721
+Simulator.run(): Trial 67
+Environment.reset(): Trial set up with start = (5, 6), destination = (1, 1), deadline = 45
+RoutePlanner.route_to(): destination = (1, 1)
+violation 2722
+Q learning start
+violation 2723
+violation 2724
+violation 2725
+violation 2726
+violation 2727
+violation 2728
+violation 2729
+violation 2730
+violation 2731
+violation 2732
+violation 2733
+violation 2734
+violation 2735
+violation 2736
+violation 2737
+violation 2738
+violation 2739
+violation 2740
+violation 2741
+violation 2742
+violation 2743
+violation 2744
+violation 2745
+violation 2746
+violation 2747
+violation 2748
+violation 2749
+violation 2750
+violation 2751
+violation 2752
+violation 2753
+violation 2754
+violation 2755
+violation 2756
+violation 2757
+violation 2758
+violation 2759
+violation 2760
+violation 2761
+violation 2762
+violation 2763
+violation 2764
+violation 2765
+violation 2766
+violation 2767
+violation 2768
+violation 2769
+violation 2770
+violation 2771
+violation 2772
+violation 2773
+violation 2774
+violation 2775
+violation 2776
+violation 2777
+violation 2778
+violation 2779
+violation 2780
+violation 2781
+violation 2782
+violation 2783
+violation 2784
+violation 2785
+violation 2786
+violation 2787
+violation 2788
+violation 2789
+violation 2790
+violation 2791
+violation 2792
+violation 2793
+violation 2794
+violation 2795
+violation 2796
+violation 2797
+violation 2798
+violation 2799
+violation 2800
+violation 2801
+violation 2802
+violation 2803
+violation 2804
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 68
+Environment.reset(): Trial set up with start = (7, 5), destination = (1, 2), deadline = 45
+RoutePlanner.route_to(): destination = (1, 2)
+violation 2805
+Q learning start
+violation 2806
+violation 2807
+violation 2808
+violation 2809
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 69
+Environment.reset(): Trial set up with start = (2, 1), destination = (5, 5), deadline = 35
+RoutePlanner.route_to(): destination = (5, 5)
+Q learning start
+violation 2810
+violation 2811
+violation 2812
+violation 2813
+violation 2814
+violation 2815
+violation 2816
+violation 2817
+violation 2818
+violation 2819
+violation 2820
+violation 2821
+violation 2822
+violation 2823
+violation 2824
+violation 2825
+violation 2826
+violation 2827
+violation 2828
+violation 2829
+violation 2830
+violation 2831
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 70
+Environment.reset(): Trial set up with start = (1, 6), destination = (7, 1), deadline = 55
+RoutePlanner.route_to(): destination = (7, 1)
+Q learning start
+violation 2832
+violation 2833
+violation 2834
+violation 2835
+violation 2836
+violation 2837
+violation 2838
+violation 2839
+violation 2840
+violation 2841
+violation 2842
+violation 2843
+violation 2844
+violation 2845
+violation 2846
+violation 2847
+violation 2848
+violation 2849
+violation 2850
+violation 2851
+violation 2852
+violation 2853
+violation 2854
+violation 2855
+violation 2856
+violation 2857
+violation 2858
+violation 2859
+violation 2860
+violation 2861
+violation 2862
+violation 2863
+violation 2864
+violation 2865
+violation 2866
+violation 2867
+violation 2868
+violation 2869
+violation 2870
+violation 2871
+violation 2872
+violation 2873
+violation 2874
+violation 2875
+violation 2876
+violation 2877
+violation 2878
+violation 2879
+violation 2880
+violation 2881
+violation 2882
+violation 2883
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 71
+Environment.reset(): Trial set up with start = (7, 5), destination = (4, 2), deadline = 30
+RoutePlanner.route_to(): destination = (4, 2)
+Q learning start
+violation 2884
+violation 2885
+violation 2886
+violation 2887
+violation 2888
+violation 2889
+violation 2890
+violation 2891
+violation 2892
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 72
+Environment.reset(): Trial set up with start = (3, 6), destination = (4, 3), deadline = 20
+RoutePlanner.route_to(): destination = (4, 3)
+Q learning start
+violation 2893
+violation 2894
+violation 2895
+violation 2896
+violation 2897
+violation 2898
+violation 2899
+violation 2900
+violation 2901
+violation 2902
+violation 2903
+violation 2904
+violation 2905
+violation 2906
+violation 2907
+violation 2908
+violation 2909
+violation 2910
+violation 2911
+violation 2912
+violation 2913
+violation 2914
+violation 2915
+violation 2916
+violation 2917
+violation 2918
+violation 2919
+violation 2920
+violation 2921
+violation 2922
+violation 2923
+violation 2924
+violation 2925
+violation 2926
+violation 2927
+violation 2928
+violation 2929
+violation 2930
+violation 2931
+violation 2932
+violation 2933
+violation 2934
+violation 2935
+violation 2936
+violation 2937
+violation 2938
+violation 2939
+violation 2940
+violation 2941
+violation 2942
+violation 2943
+violation 2944
+violation 2945
+violation 2946
+violation 2947
+violation 2948
+violation 2949
+violation 2950
+violation 2951
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 73
+Environment.reset(): Trial set up with start = (1, 4), destination = (4, 6), deadline = 25
+RoutePlanner.route_to(): destination = (4, 6)
+Q learning start
+violation 2952
+violation 2953
+violation 2954
+violation 2955
+violation 2956
+violation 2957
+violation 2958
+violation 2959
+violation 2960
+violation 2961
+violation 2962
+violation 2963
+violation 2964
+violation 2965
+violation 2966
+violation 2967
+violation 2968
+violation 2969
+violation 2970
+violation 2971
+violation 2972
+violation 2973
+violation 2974
+violation 2975
+violation 2976
+violation 2977
+violation 2978
+violation 2979
+violation 2980
+violation 2981
+violation 2982
+violation 2983
+violation 2984
+violation 2985
+violation 2986
+violation 2987
+violation 2988
+violation 2989
+violation 2990
+violation 2991
+violation 2992
+violation 2993
+violation 2994
+violation 2995
+violation 2996
+violation 2997
+violation 2998
+violation 2999
+violation 3000
+violation 3001
+violation 3002
+violation 3003
+violation 3004
+violation 3005
+violation 3006
+violation 3007
+violation 3008
+violation 3009
+violation 3010
+violation 3011
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 74
+Environment.reset(): Trial set up with start = (3, 4), destination = (6, 3), deadline = 20
+RoutePlanner.route_to(): destination = (6, 3)
+Q learning start
+violation 3012
+violation 3013
+violation 3014
+violation 3015
+violation 3016
+violation 3017
+violation 3018
+violation 3019
+violation 3020
+violation 3021
+violation 3022
+violation 3023
+violation 3024
+violation 3025
+violation 3026
+violation 3027
+violation 3028
+violation 3029
+violation 3030
+violation 3031
+violation 3032
+violation 3033
+violation 3034
+violation 3035
+violation 3036
+violation 3037
+violation 3038
+violation 3039
+violation 3040
+violation 3041
+violation 3042
+violation 3043
+violation 3044
+violation 3045
+violation 3046
+violation 3047
+violation 3048
+violation 3049
+violation 3050
+violation 3051
+violation 3052
+violation 3053
+violation 3054
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 75
+Environment.reset(): Trial set up with start = (5, 2), destination = (4, 6), deadline = 25
+RoutePlanner.route_to(): destination = (4, 6)
+Q learning start
+violation 3055
+violation 3056
+violation 3057
+violation 3058
+violation 3059
+violation 3060
+violation 3061
+violation 3062
+violation 3063
+violation 3064
+violation 3065
+violation 3066
+violation 3067
+violation 3068
+violation 3069
+violation 3070
+violation 3071
+violation 3072
+violation 3073
+violation 3074
+violation 3075
+violation 3076
+violation 3077
+violation 3078
+violation 3079
+violation 3080
+violation 3081
+violation 3082
+violation 3083
+violation 3084
+violation 3085
+violation 3086
+violation 3087
+violation 3088
+violation 3089
+violation 3090
+violation 3091
+violation 3092
+violation 3093
+violation 3094
+violation 3095
+violation 3096
+violation 3097
+violation 3098
+violation 3099
+violation 3100
+violation 3101
+violation 3102
+violation 3103
+violation 3104
+violation 3105
+violation 3106
+violation 3107
+violation 3108
+violation 3109
+violation 3110
+violation 3111
+violation 3112
+violation 3113
+violation 3114
+violation 3115
+violation 3116
+violation 3117
+violation 3118
+violation 3119
+violation 3120
+violation 3121
+violation 3122
+violation 3123
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 76
+Environment.reset(): Trial set up with start = (2, 2), destination = (8, 1), deadline = 35
+RoutePlanner.route_to(): destination = (8, 1)
+Q learning start
+violation 3124
+violation 3125
+violation 3126
+violation 3127
+violation 3128
+violation 3129
+violation 3130
+violation 3131
+violation 3132
+violation 3133
+violation 3134
+violation 3135
+violation 3136
+violation 3137
+violation 3138
+violation 3139
+violation 3140
+violation 3141
+violation 3142
+violation 3143
+violation 3144
+violation 3145
+violation 3146
+violation 3147
+violation 3148
+violation 3149
+violation 3150
+violation 3151
+violation 3152
+violation 3153
+violation 3154
+violation 3155
+violation 3156
+violation 3157
+violation 3158
+violation 3159
+violation 3160
+violation 3161
+violation 3162
+violation 3163
+violation 3164
+violation 3165
+violation 3166
+violation 3167
+violation 3168
+violation 3169
+violation 3170
+violation 3171
+violation 3172
+violation 3173
+violation 3174
+violation 3175
+violation 3176
+violation 3177
+violation 3178
+violation 3179
+Environment.act(): Primary agent has reached destination!
+violation 3180
+Simulator.run(): Trial 77
+Environment.reset(): Trial set up with start = (5, 5), destination = (7, 1), deadline = 30
+RoutePlanner.route_to(): destination = (7, 1)
+violation 3181
+Q learning start
+violation 3182
+violation 3183
+violation 3184
+violation 3185
+violation 3186
+violation 3187
+violation 3188
+violation 3189
+violation 3190
+violation 3191
+violation 3192
+violation 3193
+violation 3194
+violation 3195
+violation 3196
+violation 3197
+violation 3198
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 78
+Environment.reset(): Trial set up with start = (3, 4), destination = (8, 2), deadline = 35
+RoutePlanner.route_to(): destination = (8, 2)
+violation 3199
+Q learning start
+violation 3200
+violation 3201
+violation 3202
+violation 3203
+violation 3204
+violation 3205
+violation 3206
+violation 3207
+violation 3208
+violation 3209
+violation 3210
+violation 3211
+violation 3212
+violation 3213
+violation 3214
+violation 3215
+violation 3216
+violation 3217
+violation 3218
+violation 3219
+violation 3220
+violation 3221
+violation 3222
+violation 3223
+violation 3224
+violation 3225
+violation 3226
+violation 3227
+violation 3228
+violation 3229
+violation 3230
+violation 3231
+violation 3232
+violation 3233
+violation 3234
+violation 3235
+violation 3236
+violation 3237
+violation 3238
+violation 3239
+violation 3240
+violation 3241
+violation 3242
+violation 3243
+violation 3244
+violation 3245
+violation 3246
+violation 3247
+violation 3248
+violation 3249
+violation 3250
+violation 3251
+violation 3252
+violation 3253
+violation 3254
+violation 3255
+violation 3256
+violation 3257
+violation 3258
+violation 3259
+Environment.act(): Primary agent has reached destination!
+violation 3260
+Simulator.run(): Trial 79
+Environment.reset(): Trial set up with start = (2, 6), destination = (6, 4), deadline = 30
+RoutePlanner.route_to(): destination = (6, 4)
+violation 3261
+Q learning start
+violation 3262
+violation 3263
+violation 3264
+violation 3265
+violation 3266
+violation 3267
+violation 3268
+violation 3269
+violation 3270
+violation 3271
+violation 3272
+violation 3273
+violation 3274
+violation 3275
+violation 3276
+violation 3277
+violation 3278
+violation 3279
+violation 3280
+violation 3281
+violation 3282
+violation 3283
+violation 3284
+violation 3285
+violation 3286
+violation 3287
+violation 3288
+violation 3289
+violation 3290
+violation 3291
+violation 3292
+violation 3293
+violation 3294
+violation 3295
+violation 3296
+violation 3297
+violation 3298
+violation 3299
+violation 3300
+violation 3301
+violation 3302
+violation 3303
+violation 3304
+violation 3305
+violation 3306
+violation 3307
+violation 3308
+violation 3309
+violation 3310
+violation 3311
+violation 3312
+violation 3313
+violation 3314
+violation 3315
+violation 3316
+violation 3317
+violation 3318
+violation 3319
+violation 3320
+violation 3321
+violation 3322
+violation 3323
+violation 3324
+violation 3325
+violation 3326
+violation 3327
+violation 3328
+violation 3329
+violation 3330
+violation 3331
+violation 3332
+violation 3333
+violation 3334
+violation 3335
+violation 3336
+violation 3337
+violation 3338
+violation 3339
+violation 3340
+violation 3341
+violation 3342
+violation 3343
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 80
+Environment.reset(): Trial set up with start = (1, 6), destination = (5, 1), deadline = 45
+RoutePlanner.route_to(): destination = (5, 1)
+violation 3344
+Q learning start
+violation 3345
+violation 3346
+violation 3347
+violation 3348
+violation 3349
+violation 3350
+violation 3351
+violation 3352
+violation 3353
+violation 3354
+violation 3355
+violation 3356
+violation 3357
+violation 3358
+violation 3359
+violation 3360
+violation 3361
+violation 3362
+violation 3363
+violation 3364
+violation 3365
+violation 3366
+violation 3367
+violation 3368
+violation 3369
+violation 3370
+violation 3371
+violation 3372
+violation 3373
+violation 3374
+violation 3375
+violation 3376
+violation 3377
+violation 3378
+violation 3379
+violation 3380
+violation 3381
+violation 3382
+violation 3383
+violation 3384
+violation 3385
+violation 3386
+violation 3387
+violation 3388
+violation 3389
+violation 3390
+violation 3391
+violation 3392
+violation 3393
+violation 3394
+violation 3395
+violation 3396
+violation 3397
+violation 3398
+violation 3399
+violation 3400
+violation 3401
+violation 3402
+violation 3403
+violation 3404
+violation 3405
+violation 3406
+violation 3407
+violation 3408
+violation 3409
+violation 3410
+violation 3411
+violation 3412
+violation 3413
+violation 3414
+violation 3415
+violation 3416
+violation 3417
+violation 3418
+violation 3419
+violation 3420
+violation 3421
+violation 3422
+violation 3423
+violation 3424
+violation 3425
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 81
+Environment.reset(): Trial set up with start = (7, 6), destination = (3, 2), deadline = 40
+RoutePlanner.route_to(): destination = (3, 2)
+Q learning start
+violation 3426
+violation 3427
+violation 3428
+violation 3429
+violation 3430
+violation 3431
+violation 3432
+violation 3433
+violation 3434
+violation 3435
+violation 3436
+violation 3437
+violation 3438
+violation 3439
+violation 3440
+violation 3441
+violation 3442
+violation 3443
+violation 3444
+violation 3445
+violation 3446
+violation 3447
+violation 3448
+violation 3449
+violation 3450
+violation 3451
+violation 3452
+violation 3453
+violation 3454
+violation 3455
+violation 3456
+violation 3457
+violation 3458
+violation 3459
+violation 3460
+violation 3461
+violation 3462
+violation 3463
+violation 3464
+violation 3465
+violation 3466
+violation 3467
+violation 3468
+violation 3469
+violation 3470
+violation 3471
+violation 3472
+violation 3473
+violation 3474
+violation 3475
+violation 3476
+violation 3477
+violation 3478
+violation 3479
+violation 3480
+violation 3481
+violation 3482
+violation 3483
+violation 3484
+violation 3485
+violation 3486
+violation 3487
+violation 3488
+violation 3489
+violation 3490
+violation 3491
+violation 3492
+violation 3493
+violation 3494
+violation 3495
+violation 3496
+violation 3497
+violation 3498
+violation 3499
+violation 3500
+violation 3501
+violation 3502
+violation 3503
+violation 3504
+violation 3505
+violation 3506
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 82
+Environment.reset(): Trial set up with start = (8, 4), destination = (3, 4), deadline = 25
+RoutePlanner.route_to(): destination = (3, 4)
+Q learning start
+violation 3507
+violation 3508
+violation 3509
+violation 3510
+violation 3511
+violation 3512
+violation 3513
+violation 3514
+violation 3515
+violation 3516
+violation 3517
+violation 3518
+violation 3519
+violation 3520
+violation 3521
+violation 3522
+violation 3523
+violation 3524
+violation 3525
+violation 3526
+violation 3527
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 83
+Environment.reset(): Trial set up with start = (4, 1), destination = (7, 4), deadline = 30
+RoutePlanner.route_to(): destination = (7, 4)
+violation 3528
+Q learning start
+violation 3529
+violation 3530
+violation 3531
+violation 3532
+violation 3533
+violation 3534
+violation 3535
+violation 3536
+violation 3537
+violation 3538
+violation 3539
+violation 3540
+violation 3541
+violation 3542
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 84
+Environment.reset(): Trial set up with start = (7, 4), destination = (5, 6), deadline = 20
+RoutePlanner.route_to(): destination = (5, 6)
+violation 3543
+Q learning start
+violation 3544
+violation 3545
+violation 3546
+violation 3547
+violation 3548
+violation 3549
+violation 3550
+violation 3551
+violation 3552
+violation 3553
+violation 3554
+violation 3555
+violation 3556
+violation 3557
+violation 3558
+violation 3559
+violation 3560
+violation 3561
+violation 3562
+violation 3563
+violation 3564
+violation 3565
+violation 3566
+violation 3567
+violation 3568
+violation 3569
+violation 3570
+violation 3571
+violation 3572
+violation 3573
+violation 3574
+violation 3575
+violation 3576
+violation 3577
+violation 3578
+violation 3579
+violation 3580
+violation 3581
+violation 3582
+violation 3583
+violation 3584
+violation 3585
+violation 3586
+violation 3587
+violation 3588
+violation 3589
+violation 3590
+violation 3591
+violation 3592
+violation 3593
+violation 3594
+violation 3595
+violation 3596
+violation 3597
+violation 3598
+violation 3599
+violation 3600
+violation 3601
+violation 3602
+violation 3603
+violation 3604
+violation 3605
+violation 3606
+violation 3607
+violation 3608
+violation 3609
+violation 3610
+violation 3611
+violation 3612
+violation 3613
+violation 3614
+violation 3615
+violation 3616
+violation 3617
+violation 3618
+violation 3619
+violation 3620
+violation 3621
+violation 3622
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 85
+Environment.reset(): Trial set up with start = (8, 1), destination = (3, 5), deadline = 45
+RoutePlanner.route_to(): destination = (3, 5)
+violation 3623
+Q learning start
+violation 3624
+violation 3625
+violation 3626
+violation 3627
+violation 3628
+violation 3629
+violation 3630
+violation 3631
+violation 3632
+violation 3633
+violation 3634
+violation 3635
+violation 3636
+violation 3637
+violation 3638
+violation 3639
+violation 3640
+violation 3641
+violation 3642
+violation 3643
+violation 3644
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 86
+Environment.reset(): Trial set up with start = (5, 5), destination = (3, 1), deadline = 30
+RoutePlanner.route_to(): destination = (3, 1)
+Q learning start
+violation 3645
+violation 3646
+violation 3647
+violation 3648
+violation 3649
+violation 3650
+violation 3651
+violation 3652
+violation 3653
+violation 3654
+violation 3655
+violation 3656
+violation 3657
+violation 3658
+violation 3659
+violation 3660
+violation 3661
+violation 3662
+violation 3663
+violation 3664
+violation 3665
+violation 3666
+violation 3667
+violation 3668
+violation 3669
+violation 3670
+violation 3671
+violation 3672
+violation 3673
+violation 3674
+violation 3675
+violation 3676
+violation 3677
+violation 3678
+violation 3679
+violation 3680
+violation 3681
+violation 3682
+violation 3683
+violation 3684
+violation 3685
+violation 3686
+violation 3687
+violation 3688
+violation 3689
+violation 3690
+violation 3691
+violation 3692
+violation 3693
+violation 3694
+violation 3695
+violation 3696
+violation 3697
+violation 3698
+violation 3699
+violation 3700
+violation 3701
+violation 3702
+violation 3703
+violation 3704
+violation 3705
+violation 3706
+violation 3707
+violation 3708
+violation 3709
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 87
+Environment.reset(): Trial set up with start = (7, 1), destination = (1, 6), deadline = 55
+RoutePlanner.route_to(): destination = (1, 6)
+violation 3710
+Q learning start
+violation 3711
+violation 3712
+violation 3713
+violation 3714
+violation 3715
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 88
+Environment.reset(): Trial set up with start = (4, 1), destination = (8, 3), deadline = 30
+RoutePlanner.route_to(): destination = (8, 3)
+violation 3716
+Q learning start
+violation 3717
+violation 3718
+violation 3719
+violation 3720
+violation 3721
+violation 3722
+violation 3723
+violation 3724
+violation 3725
+violation 3726
+violation 3727
+violation 3728
+violation 3729
+violation 3730
+violation 3731
+violation 3732
+violation 3733
+violation 3734
+violation 3735
+violation 3736
+violation 3737
+violation 3738
+violation 3739
+violation 3740
+violation 3741
+violation 3742
+violation 3743
+violation 3744
+violation 3745
+violation 3746
+violation 3747
+violation 3748
+violation 3749
+violation 3750
+violation 3751
+violation 3752
+violation 3753
+violation 3754
+violation 3755
+violation 3756
+violation 3757
+violation 3758
+violation 3759
+violation 3760
+violation 3761
+violation 3762
+violation 3763
+violation 3764
+violation 3765
+violation 3766
+violation 3767
+violation 3768
+violation 3769
+violation 3770
+violation 3771
+violation 3772
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 89
+Environment.reset(): Trial set up with start = (8, 2), destination = (5, 6), deadline = 35
+RoutePlanner.route_to(): destination = (5, 6)
+violation 3773
+Q learning start
+violation 3774
+violation 3775
+violation 3776
+violation 3777
+violation 3778
+violation 3779
+violation 3780
+violation 3781
+violation 3782
+violation 3783
+violation 3784
+violation 3785
+violation 3786
+violation 3787
+violation 3788
+violation 3789
+violation 3790
+violation 3791
+violation 3792
+violation 3793
+violation 3794
+violation 3795
+violation 3796
+violation 3797
+violation 3798
+violation 3799
+violation 3800
+violation 3801
+violation 3802
+violation 3803
+violation 3804
+violation 3805
+violation 3806
+violation 3807
+violation 3808
+violation 3809
+violation 3810
+violation 3811
+violation 3812
+violation 3813
+violation 3814
+violation 3815
+violation 3816
+violation 3817
+violation 3818
+violation 3819
+violation 3820
+violation 3821
+violation 3822
+violation 3823
+violation 3824
+violation 3825
+violation 3826
+violation 3827
+violation 3828
+violation 3829
+violation 3830
+violation 3831
+violation 3832
+violation 3833
+violation 3834
+violation 3835
+violation 3836
+violation 3837
+violation 3838
+violation 3839
+violation 3840
+violation 3841
+violation 3842
+violation 3843
+violation 3844
+violation 3845
+violation 3846
+violation 3847
+violation 3848
+violation 3849
+violation 3850
+violation 3851
+violation 3852
+violation 3853
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 90
+Environment.reset(): Trial set up with start = (6, 2), destination = (3, 3), deadline = 20
+RoutePlanner.route_to(): destination = (3, 3)
+violation 3854
+Q learning start
+violation 3855
+violation 3856
+violation 3857
+violation 3858
+violation 3859
+violation 3860
+violation 3861
+violation 3862
+violation 3863
+violation 3864
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 91
+Environment.reset(): Trial set up with start = (4, 4), destination = (7, 6), deadline = 25
+RoutePlanner.route_to(): destination = (7, 6)
+violation 3865
+Q learning start
+violation 3866
+violation 3867
+violation 3868
+violation 3869
+violation 3870
+violation 3871
+violation 3872
+violation 3873
+violation 3874
+violation 3875
+violation 3876
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 92
+Environment.reset(): Trial set up with start = (2, 5), destination = (7, 4), deadline = 30
+RoutePlanner.route_to(): destination = (7, 4)
+violation 3877
+Q learning start
+violation 3878
+violation 3879
+violation 3880
+violation 3881
+violation 3882
+violation 3883
+violation 3884
+violation 3885
+violation 3886
+violation 3887
+violation 3888
+violation 3889
+violation 3890
+violation 3891
+violation 3892
+violation 3893
+violation 3894
+violation 3895
+violation 3896
+violation 3897
+violation 3898
+violation 3899
+violation 3900
+violation 3901
+violation 3902
+violation 3903
+violation 3904
+violation 3905
+violation 3906
+violation 3907
+violation 3908
+violation 3909
+violation 3910
+violation 3911
+violation 3912
+violation 3913
+violation 3914
+violation 3915
+violation 3916
+violation 3917
+violation 3918
+violation 3919
+violation 3920
+violation 3921
+violation 3922
+violation 3923
+violation 3924
+violation 3925
+violation 3926
+violation 3927
+violation 3928
+violation 3929
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 93
+Environment.reset(): Trial set up with start = (1, 2), destination = (4, 3), deadline = 20
+RoutePlanner.route_to(): destination = (4, 3)
+Q learning start
+violation 3930
+violation 3931
+violation 3932
+violation 3933
+violation 3934
+violation 3935
+violation 3936
+violation 3937
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 94
+Environment.reset(): Trial set up with start = (6, 5), destination = (3, 2), deadline = 30
+RoutePlanner.route_to(): destination = (3, 2)
+Q learning start
+violation 3938
+violation 3939
+violation 3940
+violation 3941
+violation 3942
+violation 3943
+violation 3944
+violation 3945
+violation 3946
+violation 3947
+violation 3948
+violation 3949
+violation 3950
+violation 3951
+violation 3952
+violation 3953
+violation 3954
+violation 3955
+violation 3956
+violation 3957
+violation 3958
+violation 3959
+violation 3960
+violation 3961
+violation 3962
+violation 3963
+violation 3964
+violation 3965
+violation 3966
+violation 3967
+violation 3968
+violation 3969
+violation 3970
+violation 3971
+violation 3972
+violation 3973
+violation 3974
+violation 3975
+violation 3976
+violation 3977
+violation 3978
+violation 3979
+violation 3980
+violation 3981
+violation 3982
+violation 3983
+violation 3984
+violation 3985
+violation 3986
+violation 3987
+violation 3988
+violation 3989
+violation 3990
+violation 3991
+violation 3992
+violation 3993
+violation 3994
+violation 3995
+violation 3996
+violation 3997
+violation 3998
+violation 3999
+violation 4000
+violation 4001
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 95
+Environment.reset(): Trial set up with start = (2, 3), destination = (8, 6), deadline = 45
+RoutePlanner.route_to(): destination = (8, 6)
+violation 4002
+Q learning start
+violation 4003
+violation 4004
+violation 4005
+violation 4006
+violation 4007
+violation 4008
+violation 4009
+violation 4010
+violation 4011
+violation 4012
+violation 4013
+violation 4014
+violation 4015
+violation 4016
+violation 4017
+violation 4018
+violation 4019
+violation 4020
+violation 4021
+violation 4022
+violation 4023
+violation 4024
+violation 4025
+violation 4026
+violation 4027
+violation 4028
+violation 4029
+violation 4030
+violation 4031
+violation 4032
+violation 4033
+violation 4034
+violation 4035
+violation 4036
+violation 4037
+violation 4038
+violation 4039
+violation 4040
+violation 4041
+violation 4042
+violation 4043
+violation 4044
+violation 4045
+violation 4046
+violation 4047
+violation 4048
+violation 4049
+violation 4050
+violation 4051
+violation 4052
+violation 4053
+violation 4054
+violation 4055
+violation 4056
+violation 4057
+violation 4058
+violation 4059
+violation 4060
+violation 4061
+violation 4062
+violation 4063
+violation 4064
+violation 4065
+violation 4066
+violation 4067
+violation 4068
+violation 4069
+violation 4070
+violation 4071
+violation 4072
+violation 4073
+violation 4074
+violation 4075
+violation 4076
+violation 4077
+violation 4078
+violation 4079
+violation 4080
+violation 4081
+violation 4082
+violation 4083
+violation 4084
+violation 4085
+violation 4086
+violation 4087
+violation 4088
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 96
+Environment.reset(): Trial set up with start = (7, 6), destination = (6, 3), deadline = 20
+RoutePlanner.route_to(): destination = (6, 3)
+Q learning start
+violation 4089
+violation 4090
+violation 4091
+violation 4092
+violation 4093
+violation 4094
+violation 4095
+violation 4096
+violation 4097
+violation 4098
+violation 4099
+violation 4100
+violation 4101
+violation 4102
+violation 4103
+violation 4104
+violation 4105
+violation 4106
+violation 4107
+violation 4108
+violation 4109
+violation 4110
+violation 4111
+violation 4112
+violation 4113
+violation 4114
+violation 4115
+violation 4116
+violation 4117
+violation 4118
+violation 4119
+violation 4120
+violation 4121
+violation 4122
+violation 4123
+violation 4124
+violation 4125
+violation 4126
+violation 4127
+violation 4128
+violation 4129
+violation 4130
+violation 4131
+violation 4132
+violation 4133
+violation 4134
+violation 4135
+violation 4136
+violation 4137
+violation 4138
+violation 4139
+violation 4140
+violation 4141
+violation 4142
+violation 4143
+violation 4144
+violation 4145
+violation 4146
+violation 4147
+violation 4148
+violation 4149
+violation 4150
+violation 4151
+violation 4152
+violation 4153
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.
+Simulator.run(): Trial 97
+Environment.reset(): Trial set up with start = (6, 3), destination = (5, 6), deadline = 20
+RoutePlanner.route_to(): destination = (5, 6)
+Q learning start
+violation 4154
+violation 4155
+violation 4156
+violation 4157
+violation 4158
+violation 4159
+violation 4160
+violation 4161
+Environment.act(): Primary agent has reached destination!
+violation 4162
+Simulator.run(): Trial 98
+Environment.reset(): Trial set up with start = (1, 6), destination = (6, 1), deadline = 50
+RoutePlanner.route_to(): destination = (6, 1)
+Q learning start
+violation 4163
+violation 4164
+violation 4165
+violation 4166
+violation 4167
+violation 4168
+Environment.act(): Primary agent has reached destination!
+Simulator.run(): Trial 99
+Environment.reset(): Trial set up with start = (2, 6), destination = (7, 5), deadline = 30
+RoutePlanner.route_to(): destination = (7, 5)
+violation 4169
+Q learning start
+violation 4170
+violation 4171
+violation 4172
+violation 4173
+violation 4174
+violation 4175
+violation 4176
+violation 4177
+violation 4178
+violation 4179
+violation 4180
+violation 4181
+violation 4182
+violation 4183
+violation 4184
+violation 4185
+violation 4186
+violation 4187
+violation 4188
+violation 4189
+violation 4190
+violation 4191
+violation 4192
+violation 4193
+violation 4194
+violation 4195
+violation 4196
+violation 4197
+violation 4198
+violation 4199
+violation 4200
+violation 4201
+violation 4202
+violation 4203
+violation 4204
+violation 4205
+violation 4206
+violation 4207
+violation 4208
+violation 4209
+violation 4210
+violation 4211
+violation 4212
+violation 4213
+violation 4214
+violation 4215
+violation 4216
+violation 4217
+violation 4218
+violation 4219
+violation 4220
+violation 4221
+violation 4222
+violation 4223
+violation 4224
+violation 4225
+violation 4226
+violation 4227
+violation 4228
+violation 4229
+violation 4230
+violation 4231
+violation 4232
+violation 4233
+violation 4234
+violation 4235
+violation 4236
+violation 4237
+violation 4238
+violation 4239
+violation 4240
+violation 4241
+violation 4242
+violation 4243
+violation 4244
+violation 4245
+violation 4246
+violation 4247
+violation 4248
+violation 4249
+violation 4250
+violation 4251
+violation 4252
+violation 4253
+violation 4254
+violation 4255
+violation 4256
+Environment.step(): Primary agent hit hard time limit (-100)! Trial aborted.

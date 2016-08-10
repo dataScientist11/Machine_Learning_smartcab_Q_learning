@@ -37,6 +37,7 @@ class Simulator(object):
         self.update_delay = update_delay  # duration between each step (in secs)
 
         self.display = display
+        self.trialNumber = None
         if self.display:
             try:
                 self.pygame = importlib.import_module('pygame')
@@ -62,6 +63,7 @@ class Simulator(object):
     def run(self, n_trials=1):
         self.quit = False
         for trial in xrange(n_trials):
+            self.trialNumber = trial
             print "Simulator.run(): Trial {}".format(trial)  # [debug]
             self.env.reset()
             self.current_time = 0.0
